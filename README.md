@@ -1,0 +1,1 @@
+# adjusting-acording-to-the-size-of-the-screen
