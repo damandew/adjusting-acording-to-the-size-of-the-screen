@@ -1,1 +1,1 @@
-# adjusting-acording-to-the-size-of-the-screen
+# adjusting-according-to-the-size-of-the-screen
